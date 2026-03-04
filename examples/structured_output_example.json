@@ -1,0 +1,10 @@
+{
+  "device": "CT Injector",
+  "context": "Trauma CT scan",
+  "event": "Alarm triggered during injection sequence",
+  "mitigation_attempted": "Power cycle (2)",
+  "status": "Needs engineering review",
+  "priority": "High",
+  "reported_by": "CT Technologist",
+  "timestamp": "YYYY-MM-DD HH:MM"
+}
