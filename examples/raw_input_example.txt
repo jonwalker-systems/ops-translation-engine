@@ -1,0 +1,4 @@
+Injector alarm triggered during trauma CT scan.
+System halted injection mid-sequence.
+Power cycle required twice before scan could resume.
+Technologist concerned about reliability during emergency workflow.
